@@ -45,13 +45,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oudayoueslati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudayoueslati&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=oudayoueslati&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -63,16 +56,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/oudayoueslati/oudayoueslati/output/github-contribution-grid-snake.svg" />
-
-</div>
-
-<br/>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oudayoueslati&theme=algolia&no-frame=true&margin-w=15&row=1" />
 
 </div>
 
