@@ -1,18 +1,21 @@
-<h1 align="center">Hi, I'm Ouday Oueslati 👋</h1>
-<h3 align="center">Cloud & DevOps Engineer | Full-Stack Software Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <em>Junior Computer Engineer passionate about software architecture, Cloud & microservices — building intelligent, production-grade systems.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Ouday%20Oueslati&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ouday-oueslati-584771227"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:weslatiouday31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Tunisia-🇹🇳-CE1126?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20to-International%20Opportunities-2ea44f?style=for-the-badge">
-</p>
+<a href="https://www.linkedin.com/in/ouday-oueslati-584771227">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+intelligent+banking+platforms+%F0%9F%8F%A6;Cloud+%26+DevOps+enthusiast+%E2%98%81%EF%B8%8F;.NET+%7C+Angular+%7C+Kubernetes+%7C+AKS;Always+learning%2C+always+shipping+%F0%9F%9A%80" />
+</a>
 
----
+<br/>
+
+<a href="https://www.linkedin.com/in/ouday-oueslati-584771227"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:weslatiouday31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Tunisia-CE1126?style=for-the-badge&logo=googlemaps&logoColor=white">
+<img src="https://img.shields.io/badge/Open%20to-International%20Opportunities-2ea44f?style=for-the-badge">
+
+</div>
+
+<br/>
 
 ### 🚀 About Me
 
@@ -24,56 +27,65 @@
 - 💬 Ask me about **microservices, CI/CD pipelines, cloud-native deployments, or DevOps automation**
 - 🌍 Languages: Arabic · French · English
 
----
+<br/>
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure_Kubernetes_Service-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=dotnet,java,spring,nodejs,express,angular,react,ts,js&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,githubactions,jenkins,prometheus,grafana&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,figma&theme=dark" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-</p>
+</div>
 
----
+<br/>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oudayoueslati&show_icons=true&theme=default&hide_border=true" height="165">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudayoueslati&layout=compact&hide_border=true" height="165">
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oudayoueslati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oudayoueslati&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+</div>
 
-<p align="center">
-  <i>📫 Let's connect — always open to discussing Cloud, DevOps, and building great software.</i>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=oudayoueslati&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/oudayoueslati/oudayoueslati/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+<br/>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=oudayoueslati&theme=algolia&no-frame=true&margin-w=15&row=1" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=oudayoueslati&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<i>📫 Let's connect — always open to discussing Cloud, DevOps, and building great software.</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
