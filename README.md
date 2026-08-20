@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Ouday%20Oueslati&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+# Hi, I'm Ouday Oueslati 👋
+### Cloud & DevOps Engineer | Full-Stack Software Engineer
 
 <a href="https://www.linkedin.com/in/ouday-oueslati-584771227">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+intelligent+banking+platforms+%F0%9F%8F%A6;Cloud+%26+DevOps+enthusiast+%E2%98%81%EF%B8%8F;.NET+%7C+Angular+%7C+Kubernetes+%7C+AKS;Always+learning%2C+always+shipping+%F0%9F%9A%80" />
@@ -20,7 +21,6 @@
 ### 🚀 About Me
 
 - 🎓 Computer Engineering student at **ESPRIT** (2023–2026), previously a national Bachelor's in **Embedded Systems** — Faculty of Sciences of Monastir
-- ☁️ Currently interning as an **Engineering Graduation Intern @ STB (Société Tunisienne de Banque)** — building **STB Everywhere**, an intelligent digital banking platform on a microservices architecture
 - 🔭 Hands-on with **Kubernetes, Azure Kubernetes Service (AKS), Docker, Terraform, GitHub Actions, Jenkins, Prometheus & Grafana**
 - 🧠 Passionate about integrating **AI/ML into production systems** — fraud detection, anomaly detection, recommendation engines
 - 🌱 Full-stack across **.NET, Java/Spring Boot, Node.js/Express, Angular & React**
